@@ -1,0 +1,5 @@
+c:\users\woods\documents\visual studio 2015\Projects\Matrix Multiplication\Matrix Multiplication\bin\Debug\Matrix Multiplication.exe.config
+c:\users\woods\documents\visual studio 2015\Projects\Matrix Multiplication\Matrix Multiplication\bin\Debug\Matrix Multiplication.exe
+c:\users\woods\documents\visual studio 2015\Projects\Matrix Multiplication\Matrix Multiplication\bin\Debug\Matrix Multiplication.pdb
+c:\users\woods\documents\visual studio 2015\Projects\Matrix Multiplication\Matrix Multiplication\obj\Debug\Matrix Multiplication.exe
+c:\users\woods\documents\visual studio 2015\Projects\Matrix Multiplication\Matrix Multiplication\obj\Debug\Matrix Multiplication.pdb
